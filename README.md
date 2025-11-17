@@ -1,4 +1,4 @@
-# CNN Fabric Classification
+# Fabric CNN Classification
 
 This repository provides a complete pipeline for **fabric image
 classification** using **Convolutional Neural Networks (CNNs)**.\
