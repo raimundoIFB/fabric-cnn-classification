@@ -129,3 +129,9 @@ python test.py
 ## 📝 License
 
 MIT License
+
+------------------------------------------------------------------------
+
+## 📝 Publications
+
+PADILHA, R.; VASCONCELOS, RAIMUNDO C. S.; Prototype for Recognition and Classification of Textile Weaves Using Machine Learning. Título do capítulo: Prototype for Recognition and Classification of Textile Weaves Using Machine Learning, 2022. ISBN: 9789811698, Singapore.
